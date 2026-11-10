@@ -10,6 +10,14 @@ It runs in the background, listens through the glasses' microphone, answers out 
 
 > A personal, experimental project. It has not been tested on real glasses yet.
 
+## Screenshots
+
+<p>
+<img src="docs/screenshots/dialog.png" width="240" alt="Main screen: the assistant is waiting for the wake word, quick commands, text input">
+<img src="docs/screenshots/settings-appearance.png" width="240" alt="Settings: theme, dynamic colors, pure black background, text size, haptics, language">
+<img src="docs/screenshots/settings-wake-word.png" width="240" alt="Settings: wake word, wake word engine, voice interruption, glasses microphone and button">
+</p>
+
 ## Features
 
 - **Background operation.** A foreground service with a persistent notification; the "Talk", "Microphone" and "Stop" buttons are right in it.
